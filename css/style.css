@@ -1,0 +1,19 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    flex-grow: 1;
+}
+
+.fondoRosa,h1{
+    background-color: pink;
+    color: #c40665;
+}
+
+.btn-rosa{
+    background-color: #c40665;
+    color: pink;
+}
